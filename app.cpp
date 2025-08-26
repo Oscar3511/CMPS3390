@@ -4,6 +4,8 @@ using namespace std;
 int main(){
     cout << "WELCOME TO MY APP!" << endl;
     cout<<"using git"<< endl;
+    cout<< "x=y"<<endl;
     return 0;
+
 }
 
